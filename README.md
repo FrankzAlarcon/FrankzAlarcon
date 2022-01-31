@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FrankzAlarcon
-- 👀 I’m interested in learning about new technologies :)
+- 👀 I’m interested in keeping up with new technologies :)
 - 🌱 I’m currently learning Web Development
 .
 
