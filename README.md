@@ -14,8 +14,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=FrankzAlarcon&layout=compact&theme=tokyonight&langs_count=10)
 
 
-- I love keep up with web technologies.
-- I like to watch soccer.
+- 💻 I love keep up with web technologies.
+- ⚽ I like to watch soccer.
 - 🌱 I’m currently learning React.
 - 💬 Contact me as @FrankzAlarcon.
 <!--
