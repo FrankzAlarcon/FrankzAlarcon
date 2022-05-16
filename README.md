@@ -4,7 +4,7 @@
 *Software Engineering student at [Escuela Politécnica Nacional](https://www.epn.edu.ec)* 🇪🇨
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=JhonattanStevenAmaguaTaco)
+![](https://visitor-badge.glitch.me/badge?page_id=FrankzAlarcon)
 <br />
 
 ![Github Stats FrankzAlarcon](https://github-readme-stats.vercel.app/api?username=FrankzAlarcon&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight)
